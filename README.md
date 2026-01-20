@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **2a3s4d/2a3s4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
