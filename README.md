@@ -9,4 +9,9 @@
 ⚡ Fun fact: As a hobby I do speedcubing, with my best single being 5.42s on 3x3! I also do weightlifting and play Magic the Gathering
 
 📊 Some Statistics
+<br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2a3s4d&hide=contribs,prs)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<br>
+
