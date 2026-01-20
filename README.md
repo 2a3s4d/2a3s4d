@@ -1,4 +1,4 @@
-<div align="center">
+
     ## Hello!
     ---
     🔭 I’m currently working on a bunch of games in Unreal and Unity!
@@ -10,4 +10,3 @@
 
     📊 Some Statistics
     ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=2a3s4d&hide=contribs,prs)
-</div>
